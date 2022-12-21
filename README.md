@@ -12,6 +12,7 @@
 ![myphoto](https://sun9-north.userapi.com/sun9-78/s/v1/ig2/32hkC2JAKmA6i9cxGRTKdnv8kuq0TVPHGUoefWlsFpM5n_c8BEXcak4akbR_ESsdfCxwnnyzYIP37sYulInbj_KF.jpg?size=720x1080&quality=95&type=album)
 
 markdown: kramdown
+
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
